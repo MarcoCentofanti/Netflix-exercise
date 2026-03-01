@@ -1,0 +1,50 @@
+[data-bs-theme="dark"] {
+  --bs-body-bg: #000000;
+  --bs-body-color: #e9ecef;
+  --bs-primary: #6f42c1;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar-logo {
+  width: 4rem;
+}
+
+.my-fs-navbar {
+  font-size: 0.7rem;
+}
+
+.jumbotronImg {
+  height: 300px;
+  width: 100%;
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: end;
+  justify-content: start;
+  color: white;
+}
+
+.box {
+  width: 100%;
+  height: 400px;
+  object-fit: cover; /* Ritaglia l'immagine */
+  object-position: center; /* Centra l'immagine */
+}
+
+.jumb-card {
+  font-size: 0.7rem;
+  width: 40%;
+}
+
+.jumb-card-logo {
+  width: 100px;
+}
+
+.thubnail {
+  width: 100px;
+  height: 145px;
+}
