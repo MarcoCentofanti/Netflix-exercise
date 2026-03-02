@@ -32,11 +32,16 @@ const uiDataNav = [
   },
 ];
 
-export default function Header() {
+export default function Header({ handleSearch, searchFunction, inputSearch }) {
   return (
     <section className="">
-      <Navbar uiData={uiDataNav} />
-      <Jumbotron />
+      <Navbar
+        uiData={uiDataNav}
+        handleSearch={handleSearch}
+        inputSearch={inputSearch}
+      />
+      {inputSearch !== ""? <h3 className="ms-3 mt-3">Cerca nel nostro catalogo</h3> :
+      <Jumbotron />}
     </section>
   );
 }

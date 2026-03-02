@@ -8,7 +8,7 @@ export default function ProductRow({ catalog, topic, children }) {
         element.userProgress.completed === false
       );
     });
-    console.log(filteredCatalog);
+
     return (
       <section>
         {children}
@@ -36,8 +36,7 @@ export default function ProductRow({ catalog, topic, children }) {
     const filteredCatalog = catalog.filter((element) => {
       return element.genres.includes(topic);
     });
-    console.log(filteredCatalog);
-    console.log(topic);
+
     return (
       <section>
         {children}

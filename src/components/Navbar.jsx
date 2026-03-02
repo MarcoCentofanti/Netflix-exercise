@@ -1,6 +1,7 @@
+import { useEffect, useState } from "react";
 import Logo from "../assets/img/Netflix_2015_logo.svg.png";
 
-export default function Navbar({ uiData }) {
+export default function Navbar({ uiData, handleSearch, inputSearch }) {
   return (
     <nav className="navbar navbar-expand-lg bg-body-black">
       <div className="container-fluid">
@@ -38,7 +39,10 @@ export default function Navbar({ uiData }) {
             <input
               className="form-control me-2"
               type="search"
-              placeholder="Search"
+              name=""
+              value={inputSearch}
+              onChange={handleSearch}
+              placeholder="Cerca"
               aria-label="Search"
             />
             <button className="btn btn-outline-danger" type="submit">
