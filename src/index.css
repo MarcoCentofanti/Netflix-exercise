@@ -61,3 +61,17 @@ body {
 
   padding-bottom: 0.5rem; /* spazio per scrollbar */
 }
+
+.footer {
+  height: 120px;
+}
+
+.linkUtili {
+  list-style: none;
+}
+
+.footerLinks {
+  font-size: 0.7rem;
+  color: grey;
+  text-decoration: none;
+}

@@ -1,7 +1,7 @@
 import Navbar from "./Navbar";
 import Jumbotron from "./Jumbotron";
 
-const uiData = [
+const uiDataNav = [
   {
     name: "Home",
     link: "#",
@@ -35,7 +35,7 @@ const uiData = [
 export default function Header() {
   return (
     <section className="">
-      <Navbar uiData={uiData} />
+      <Navbar uiData={uiDataNav} />
       <Jumbotron />
     </section>
   );

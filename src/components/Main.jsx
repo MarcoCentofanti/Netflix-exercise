@@ -1,3 +1,4 @@
+import Footer from "./Footer";
 import ProductRow from "./ProductsRow";
 
 export default function Main({ catalog }) {
@@ -15,6 +16,7 @@ export default function Main({ catalog }) {
       <ProductRow catalog={catalog} topic="Fantascienza">
         <h1>Fantascienza</h1>
       </ProductRow>
+      <Footer />
     </div>
   );
 }
