@@ -281,8 +281,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es", "fr"],
     availableSubtitles: ["it", "en", "es", "de", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/d5NXSklpcvkCkPKmazIVnkxG6I.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/iopYFB1b6Bh7FWZh3onQhph1CZT.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=8g18jFHCLXk",
@@ -363,8 +362,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/pZekG6xabTmZxjmYw10vN89Gu8v.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/baKNX35xMiG4BkKqfRCWVKamgj5.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=borP0zMDVQU",
@@ -496,8 +494,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYQLCjyohd.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/wenGfeRQd7r8CZ0km9tLV9yCOkO.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=YqNYrYUiMfg",
@@ -1094,8 +1091,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es"],
     availableSubtitles: ["it", "en", "es", "de"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/6gui4l54dv8od5iLBGdHMGMnPPZ.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/noBCfr9KKFMQsxO8CVKR6OQkCpA.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=5iaYLCiq5RM",
@@ -1315,8 +1311,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/6d5XOczc0bxMgxHPOgbMCJoFOQP.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/tkMBQ1OGXIajoCTKPBnFdTikFVm.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=38A__WT3-o0",
@@ -1583,8 +1578,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/ux2macsNQLtZSEsf98lBsFMK2ED.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/p9lpYBRQ0H7cBEjYUQGtMNPGFB3.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=hNCmb-4oXJA",
@@ -1625,8 +1619,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/857TiHh5sZJZ4DPdPzXEYJF50jl.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/l5uxY5m3ppmQX8nSSFZDi5CGHY9.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=aS_d0Ayjw4o",
@@ -1666,8 +1659,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es"],
     availableSubtitles: ["it", "en", "es", "de"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/rBmBMEnCnEgOoNoEXsAEXiUa2Ws.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/3gMmAMiMXbNhRGTFPXA3oHaVmvG.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=OiTiKOy59o4",
@@ -1753,8 +1745,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/Ji3GSexFGJCkfJPiYGnwlmKrWMY.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/p2N8DBp0bHDIENXhO2xlCb2p1xM.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=QRfj1VCg16Y",
@@ -1794,8 +1785,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/iMFBKtFiJuFhHRG0Uqk5btZNGeU.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/tFyoRJlJl9RnESmgVOvMJE8aF5F.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=0bC1BoGdkOk",
@@ -1876,8 +1866,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/nX5XotM9yprCKarRH4fzOq1VM1J.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/fBKEYRjsNnBLlPRE4B2NNXQrJXE.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
@@ -1917,8 +1906,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/sPl0671bGQzJLdqHXQoO2QyGO0.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/lEIaL12hSkqqe83kgADkbUqEnvk.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=ne6p6MfLBxc",
@@ -1963,8 +1951,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["en", "it"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/qAwFbszH4F3TSjDiC9FAJHPWMXJ.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/3bPs8HpeoYBPAVWLXWHnITVLTwv.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=9NJj12tJzqc",
@@ -2009,8 +1996,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es"],
     availableSubtitles: ["it", "en", "es", "de"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWAft.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/5vHssUeVe25bMrof1HyaPyWgaP.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=eUdM9vrCbow",
@@ -2225,8 +2211,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es", "de", "fr"],
     availableSubtitles: ["it", "en", "es", "de", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/pSgXKPU5h2V6pEyxhZaFBjNVf4U.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=pkqzFUhGPJg",
@@ -2399,8 +2384,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/b84utA3AoCBrd0NzFmsmsSVWmEV.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/b9388GpQSB0SqeJzgTqlkczE9Nm.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=6sNd_-kKL-8",
@@ -2481,8 +2465,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["en", "it"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/k3waqVXSn723L2iYRTYFt49FoYq.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/e2fE2y3Lz1dNyBDQHSq4S09qQ2K.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=kA7-A5OqKTQ",
@@ -2522,8 +2505,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es", "de"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXNbM6ExFpB8UOq.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/m9tFTzFCTqlQ4HGKxpz7c4UzPvj.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=RlbR5N6veqw",
@@ -2568,10 +2550,8 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/VHSzNBTwxV8vh7wylo7WqrFBzc.jpg",
-    backdropUrl:
-      "https://image.tmdb.org/t/p/original/9CBqQWWHvPwHYMrXV0hcJHVbpHf.jpg",
+    thumbnailUrl: "",
+    backdropUrl: "",
     trailerUrl: "https://www.youtube.com/watch?v=AhKEngHIHHQ",
     featured: false,
     newRelease: true,
@@ -2609,8 +2589,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/wBCqbwwCSJRfKqCuFLmwWBzaVzM.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/niEz8E3WxkqJvpC81OwXr7zJPwW.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=GF4FGCKq1TA",
@@ -2650,8 +2629,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/qOMsBHInBfQLG9oOH1LpE8qRG7W.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/nMPhTqKnRWFiXJ1zNrx5KHjgfXs.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=J1OxSNRqEV8",
@@ -2691,8 +2669,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es", "de", "fr"],
     availableSubtitles: ["it", "en", "es", "de", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/iuFNMS8vlbLr6PmuEBJcx3YUXJR.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/nHf61UzkfFno5X1ofIjWpbVj95A.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=pBk4NYhWNMM",
@@ -2737,8 +2714,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/qitIhBQTqwQ2b7aJhFFFkWbpBwH.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/blRBIVCpRoLCVnIFvZHHLOh7pRV.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=VDvfFIZQIuQ",
@@ -2778,8 +2754,7 @@ export const catalog = [
     language: "de",
     availableAudios: ["de", "it", "en"],
     availableSubtitles: ["it", "en", "es", "de", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/hGMBn6RhDOBPq1sWVJVgcTEd7Yo.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/c4Htp9LR0rWXJGi23lQeBiYLYcG.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=k4oFv1Z5GJU",
@@ -2819,8 +2794,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/v6aooNivsonkKSN1pjsEVD39PEz.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=NN0BnFNGFa8",
@@ -2861,8 +2835,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/wHtHcP2OHBmGnNzMjuTKVN36Gl2.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/2SijLPKfEF5YRaEEEOd4Eqt3rGp.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=M8BMEbWmEHY",
@@ -2902,8 +2875,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "de"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/kL7AH3BKIIMJN2zHLCfRfhkIhXa.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/yEhCzKS1CZgXk2JJgNlkf4eGRE4.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=4PF6pibBnzA",
@@ -2943,8 +2915,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es", "de", "fr"],
     availableSubtitles: ["it", "en", "es", "de", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/62HCnUTHOmVbp39Tsy1Oh0AgGgt.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=qSqVVswa420",
@@ -2989,8 +2960,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es"],
     availableSubtitles: ["it", "en", "es", "de"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/lNu3A6LzmFcnFiMxFGH5nBIFPnq.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/wqhiW4FKqNgFGZEEGGpRjpVdBjB.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=oBgCMZaXzq4",
@@ -3035,8 +3005,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/7b8PTQyPSoKmEVt4RnWFXk23pHx.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/6MKHgMLEgvRFMGF7dMUo0glqNoB.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=GGLzCrfnAew",
@@ -3077,8 +3046,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/uOEXmxFMgPqRIgecAKrdkHzlhDd.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/4z2E6FPKtdqFMnE7LrxPNr3VKZO.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=sGMQCUWxfRI",
@@ -3124,8 +3092,7 @@ export const catalog = [
     language: "ja",
     availableAudios: ["ja"],
     availableSubtitles: ["it", "en", "es", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/4retCAvlHm8G5FBmdwXIiuasPLi.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/9O2NaocjzxELdFtm0hwLiCIVIMJ.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=igf0eDSSy0Y",
@@ -3171,8 +3138,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/7rKePFiPLfnrDEaQ9ycpLxk1jKj.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/6dv0StrZ5ZOFM3k0FRfGf7FJ2p6.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=6sxCFZ8_d84",
@@ -3212,8 +3178,7 @@ export const catalog = [
     language: "ko",
     availableAudios: ["ko"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/9xeEGUZjgiKlI69jwIOi0hjptgO.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/woeXlI2FTH7nODH6mPbAbilFUam.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=zPRXXuDXCCs",
@@ -3253,8 +3218,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/sM7bBqgNFMoVHRq0J6HhJmqITUk.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/7sFEZBpwrLQv4rIzS4dGUJyG03Q.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=VFOrGkAvjAE",
@@ -3300,8 +3264,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/wNfy31i6VJ8JyD7YIFV1jK14hkh.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/4YQOvElEIiw9F9fiBawJ2A5AqmN.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=sSjtGqRBHAA",
@@ -3341,8 +3304,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/ckgBxAFSPKgBxNgRFBvv2v5j4DT.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/xLS6z1aqiJ6OIVaBA3ql9vIMLmb.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=C3AuKEZ6YJY",
@@ -3387,8 +3349,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYQLCjyohd.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/wenGfeRQd7r8CZ0km9tLV9yCOkO.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=YqNYrYUiMfg",
@@ -3433,8 +3394,7 @@ export const catalog = [
     language: "es",
     availableAudios: ["es"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/dtlFDZFaWX2dBdBSvNk2KYQKRTW.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/8gVGaVXO7w0GZEYGRxlZ0yoZYlP.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=_pAOCwxmzqg",
@@ -3516,8 +3476,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/yn5ihODtqBJ6LEIAqVJqJOEhYj8.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/kTObFRvr1vCRuvmHbGMNNhS7UxY.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=AST2-4db4ic",
@@ -3557,8 +3516,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/pThyQovXQrws2hmLinDsCQ2UoGo.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/vPss7j1dRLd1Hu6n6BFOT7MWXKC.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
@@ -3598,8 +3556,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/vImUCHkCbAjPEDnFZ3Bfi2sLFZH.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/dGFQGKN3xoQYf4vl8RU0rRkFxAU.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=7gZBukN21PE",
@@ -3639,8 +3596,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/1Wa7oLMFzp8kD4ofNqPCfEjLNqN.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/cR3QqFHuUXJJkRiNF4ZFCiGTkbj.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=M68JSLJF-LM",
@@ -3772,8 +3728,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/7b8PTQyPSoKmEVt4RnWFXk23pHx.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/6MKHgMLEgvRFMGF7dMUo0glqNoB.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=GGLzCrfnAew",
@@ -3818,8 +3773,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/3VUCmHQfGHdVZwAZHZGT12pZQMN.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/f0jkAJoJY2nYVCRLgNWQc5AQ4Pu.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=FXX0XqLDN_s",
@@ -3860,8 +3814,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/cAFRpxBpFiqTOFGnhUUXGaGHvGf.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/a0uj6aZSKXSBMNKOJE4AE1Cjbh7.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=0pvUOQFRHoE",
@@ -3902,8 +3855,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOiK1XaGK.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/4oBFZF5AOV1dVxzxf2gWEpqXVTU.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=uRu3zLOJN2c",
@@ -3943,8 +3895,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["en", "it"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/hpAKFBFJPjvWfS5CzEJILSGbgxr.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/a8MFnSR7GDGjsYRPGijAq0JaWQ5.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=Db5DR9B2Ws0",
@@ -3989,8 +3940,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/9Lv7qTVe2dOE6JFQM7I6VPByBGF.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/jBdTxMrFjSLFEjSlVKFfJelcTLs.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=VDvfFIZQIuQ",
@@ -4031,8 +3981,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/kPGkBeI45o0H9V2euEwMBu0HXBQ.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/mHhLEFSJO5oa3aq8HenVqWPOUkV.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=In8fuzj3gck",
@@ -4073,8 +4022,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es", "fr"],
     availableSubtitles: ["it", "en", "es", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/vx1u0uwxJXnkKMnFQ48gCF0ffJc.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/odJ4hx6g6vBt4lBRoh5txUM9r8p.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=MStWh3sGQyc",
@@ -4114,8 +4062,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es", "de", "fr"],
     availableSubtitles: ["it", "en", "es", "de", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/qSS3eFAnQNEfXMjqIoFW6O0VlBz.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/fWQfBWq4cHQCMRrLMYfTCXxTTWG.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=XdKzUbAiZLw",
@@ -4206,8 +4153,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en", "es", "de", "fr"],
     availableSubtitles: ["it", "en", "es", "de", "fr"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/4GJKNRRFoyqjHHKAI9BqJKgYLAP.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/73jWBhVWHBa9CXa3PaDYF7ZfWbH.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=LKFuXETZUsI",
@@ -4293,8 +4239,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/4O7mY1Z3RGsv5LW0bXCzVHvJ3n2.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/r2vHbFjNIbGPWopNHHkRsWqWfSN.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=V6wWKNij_1M",
@@ -4339,8 +4284,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/kTkSHhXxW1PFzxpXgJxQXc5DOd.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/dJMKF1FO7kZkfWiGPATPkqBgGcA.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=iQXmlf3Sefg",
@@ -4380,8 +4324,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/3nGu0lFQCbnvwNVJlLhPuLPLmwX.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/vBdSi8jU4mEXCBKMfzFSqCRXCnZ.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=Hyag7lR8CPA",
@@ -4426,8 +4369,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/vL2l4gVLhGOKVGkuuAIxMNMEFiX.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=89OP78l9oF0",
@@ -4472,8 +4414,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/ObpPQtNUKCPf8YUoB3T7AS4QQYB.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/o9Gz5l4sSEqhBFQ3kqv63CxdTfX.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=EoQuVnKhxaM",
@@ -4514,8 +4455,7 @@ export const catalog = [
     language: "en",
     availableAudios: ["it", "en"],
     availableSubtitles: ["it", "en", "es"],
-    thumbnailUrl:
-      "https://image.tmdb.org/t/p/w500/kknF0kHVaLBGiVTHDhPQPHF9ZHh.jpg",
+    thumbnailUrl: "",
     backdropUrl:
       "https://image.tmdb.org/t/p/original/iuALwH7XfHm4mQFKEJxcKcZkbqr.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=VpkHAshXIv4",

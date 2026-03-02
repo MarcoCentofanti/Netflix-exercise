@@ -48,3 +48,16 @@ body {
   width: 100px;
   height: 145px;
 }
+
+/* Carosello orizzontale */
+.product-row__track {
+  display: flex;
+  gap: 0.75rem;
+
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory; /* effetto “snap” */
+  -webkit-overflow-scrolling: touch;
+
+  padding-bottom: 0.5rem; /* spazio per scrollbar */
+}
