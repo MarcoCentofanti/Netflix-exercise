@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Main from "./components/Main";
 import SearchWindow from "./components/SearchWindow";
 
-import { catalog } from "./data/Catalog";
+// import { catalog } from "./data/Catalog";
 import "./App.css";
 
 function App() {
@@ -11,26 +11,27 @@ function App() {
   const [inputSearch, setinputSearch] = useState("");
   const [findInCatalog, setFindInCatalog] = useState([]);
 
-
   const handleSearch = (e) => {
-    setinputSearch(e.target.value)}
-
+    setinputSearch(e.target.value);
+  };
 
   const handelFindInCatalog = () => {
-    setFindInCatalog(viewCatalog.filter((element) => {
+    setFindInCatalog(
+      viewCatalog.filter((element) => {
         return element.title.toLowerCase().includes(inputSearch.toLowerCase());
       }),
     );
   };
 
-  useEffect(() => {handelFindInCatalog()}, [inputSearch])
+  useEffect(() => {
+    handelFindInCatalog();
+  }, [inputSearch]);
 
   return (
     <section>
       <Header handleSearch={handleSearch} inputSearch={inputSearch} />
       {inputSearch !== "" ? (
-        <SearchWindow findInCatalog={findInCatalog}
-         />
+        <SearchWindow findInCatalog={findInCatalog} />
       ) : (
         <Main catalog={viewCatalog} />
       )}
